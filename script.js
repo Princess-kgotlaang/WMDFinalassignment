@@ -156,9 +156,9 @@ document.addEventListener('DOMContentLoaded', function() {
 // SIMPLE SLIDESHOW
 let slideIndex = 0;
 const images = [
-    "images/academic.jpg",
-    "images/childern.jpg", 
-    "images/susan-q-yin-2JIvboGLeho-unsplash.jpg"
+    "academic.jpg",
+    "childern.jpg", 
+    "susan-q-yin-2JIvboGLeho-unsplash.jpg"
 ];
 
 // Optional: Use placeholder images if real ones don't exist
